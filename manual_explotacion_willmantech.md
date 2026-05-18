@@ -1,7 +1,7 @@
 # LMSGI_UD07_Alhaja_Garc-a_Carmen.
+Este documento debe estructurarse siguiendo los requisitos de calidad y usabilidad del estándar internacional ISO/IEC/IEEE 26514:2022. Tras buscar información de que tarta este estándar, esta sería mi guía para los usuarios finales que exploten el ERP de "WillmanTech S.L.".
+
 1. Introducción y Arquitectura: Descripción técnica de los módulos activados en el ERP, indicando la topología lógica (ej. despliegue mediante Docker Compose).
-
-
 2. Guía de Instalación y Reinstalación: Pasos detallados para levantar el entorno desde cero, indicando variables de entorno necesarias y dependencias del SGBD.
 3. Seguridad y Control de Acceso: Configuración de roles (administrador, contable, comercial), políticas de contraseñas y privilegios sobre la información.
 4. Procedimiento de Backup y Restauración: Detalle del comando para respaldar la base de datos relacional y los almacenes de datos asociados.
