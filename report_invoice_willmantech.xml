@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    
+    <div>
+        <t t-if="Descuento">
+            <p>ok</p>
+        </t>
+    </div>
+</odoo>
